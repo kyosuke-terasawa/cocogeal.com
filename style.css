@@ -1,0 +1,46 @@
+#container {
+ width:700px;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+
+#boxA h1{
+width:480;font-size:30pt;font-family:魚石行書;color:#353535;filter:dropshadow(color=silver) shadow(color=silver,direction=170);
+}
+
+#boxA h1 a{
+color:#2063d2;
+text-decoration:none;
+}
+#boxA h1 a:hover{
+color:#000;
+}
+
+
+
+
+#boxB {
+ width:500px;
+ float:left;
+
+padding-top:30px;
+}
+
+#boxC {
+ width:200px;
+ float:left;
+}
+
+#boxD {
+ width:100%;
+ clear:left;
+}
+
+
+.entry{
+padding-top:10px;
+padding-bottom:10px;
+border-bottom: medium solid #cccccc;
+}
+
